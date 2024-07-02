@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "android/assets/fonts/Handlee-Regular.ttf",
+      "sha1": "7bfbcc74e78e521eac4dba8f33817675f9b1340c"
+    },
+    {
+      "path": "android/assets/fonts/Homoarakhn.ttf",
+      "sha1": "361f8ee6a6b92d4a90b137c6f01d9bf37970732d"
+    },
+    {
+      "path": "android/assets/fonts/OFL.txt",
+      "sha1": "323abf94e69dd64c98749d532c871fd996c68e1a"
+    },
+    {
+      "path": "android/assets/fonts/ProtestGuerrilla-Regular.ttf",
+      "sha1": "2b8eb6b339e3f1741b1024b8412c8d76c69c7aa8"
+    }
+  ]
+}
